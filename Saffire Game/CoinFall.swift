@@ -2,7 +2,7 @@
 //  CoinFall.swift
 //  Saffire Game
 //
-//  Created by Jaynti Raj on 11/15/19.
+//  Created by Pratima Khunte on 11/15/19.
 //  Copyright © 2019 Saffire. All rights reserved.
 //
 
